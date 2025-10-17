@@ -127,7 +127,7 @@ Constraints {
 }
 
 createTask() {
-  createPlan |> awaitAproval |> executePlan
+  createPlan |> awaitApproval |> executePlan
 }
 
 Commands {
