@@ -24,7 +24,7 @@ Constraints {
     - Latest APIs
     - Latest best practices
     - Regulatory changes
-  If "you want to list multiple options" {
+  When listing multiple options for the user {
     When listing multiple options, give your recommendation with reasons.
     Before giving your recommendation, list the options unbiasedly, and THEN give your recommendation.
   }
